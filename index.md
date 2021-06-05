@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Rose's Project 1!
 
-You can use the [editor on GitHub](https://github.com/rosejc75/cit281-p1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Folder Tree
+In this project, I started by going into the terminal and creating a few different folders using commands I learned from Lab 1 Lab 2.
 
-### Markdown
+### Ping
+I then used the ping command to determine if a "specific internet location is available" by sending out many internet data packets and waiting for a response. The ping is used to break out a command line operation.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Day of Week
+we then coded in VS code the day of the week of the current day. I did this by using an array that contained all the days of the week within it.
 
-```markdown
-Syntax highlighted code block
+### Random Letters
+Next, I coded to ouput a string of random lowercase letters
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rosejc75/cit281-p1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
